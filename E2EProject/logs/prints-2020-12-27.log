@@ -1,0 +1,6 @@
+15:30:55.656 [TestNG-test=Test-1] INFO  resources.Base - ValidateNavigationBar before method
+15:30:55.766 [TestNG-test=Test-1] INFO  resources.Base - ValidateNavigationBar after method
+15:30:56.795 [TestNG-test=Test-3] INFO  resources.Base - The user isrestricted user
+15:30:57.110 [TestNG-test=Test-3] INFO  resources.Base - HoePage class driver closes
+15:31:04.122 [TestNG-test=Test-3] INFO  resources.Base - HomePage class driver initialization
+15:31:05.629 [TestNG-test=Test-3] INFO  resources.Base - The user isnonrestrictedUser

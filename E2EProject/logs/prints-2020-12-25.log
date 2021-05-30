@@ -1,0 +1,6 @@
+17:59:42.387 [TestNG-test=Test-3] INFO  resources.Base - HoePage class driver closes
+17:59:48.643 [TestNG-test=Test-3] INFO  resources.Base - HomePage class driver initialization
+17:59:49.992 [TestNG-test=Test-3] INFO  resources.Base - The user isnonrestrictedUser
+17:59:50.303 [TestNG-test=Test-3] INFO  resources.Base - HoePage class driver closes
+17:59:51.226 [TestNG-test=Test-2] INFO  resources.Base - ValidateTitle before method
+18:02:09.165 [TestNG-test=Test-1] INFO  resources.Base - ValidateNavigationBar before method

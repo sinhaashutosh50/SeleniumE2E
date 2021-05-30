@@ -1,0 +1,7 @@
+14:04:25.086 [main] INFO  resources.Base - ValidateNavigationBar before method
+14:04:25.261 [main] INFO  resources.Base - ValidateNavigationBar after method
+14:04:34.057 [main] INFO  resources.Base - ValidateTitle before method
+14:04:34.096 [main] INFO  resources.Base - The text feature courses was validated successfully
+14:04:34.143 [main] INFO  resources.Base - ValidateTitle before method
+14:04:43.398 [main] INFO  resources.Base - HomePage class driver initialization
+14:04:45.011 [main] INFO  resources.Base - The user isrestricted user
